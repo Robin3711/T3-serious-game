@@ -1,7 +1,5 @@
 ## HAN23-T3-A : Territorialisation
 
-### Le jeu du siècle
-
 #### Sujet
 
 Notre sujet était `Re-territorialiser par la matière. Approche du métabolisme urbain à l'échelle d'un quartier. Koenigshoffen-Est à Strasbourg TW : Géographie`.
@@ -73,21 +71,3 @@ Godot vous demandera peut-être un mode de rendu, choisissez `compatibility`.
 
 Nous avons un système de documentation automatique XML :
 [Documentation](TerritoriaV1/bin/Territoria.XML)
-
-## Crédits
-
-### Dans l'Odyssée Créative de notre Projet
-
-Nous souhaitons exprimer notre gratitude envers deux individus exceptionnels qui ont été les Gardiens de l'Excellence, apportant leur touche unique à notre aventure :
-
-#### Pilou
-#### Maestro des Mélodies
-
-Pilou, la créatrice de magie sonore, a donné une âme au jeu en tissant des notes en harmonie, créant ainsi une symphonie qui résonne dans le coeur de chaque joueur.
-
-#### Juju
-#### Artisan des Visuels
-
-Juju, l'architecte visuel, a sculpté le monde du jeu avec des sprites inspirants, transformant des idées abstraites en une réalité visuelle captivante.
-
-Ensemble, ils ont transcendé les frontières de l'ordinaire, élevant notre projet vers de nouveaux sommets. Les Gardiens de l'Excellence, Pilou et Juju, ont laissé une trace indélébile sur ce projet.
